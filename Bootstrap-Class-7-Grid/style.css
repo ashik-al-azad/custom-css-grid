@@ -1,0 +1,14 @@
+.row div div{
+    background-color: #82ccdd;
+    border: 5px solid #0a3d62;
+    padding: 10px;
+    text-align: center;
+    margin: 5px 0px;
+}
+.row .row div div{
+    background-color: yellow;
+    border: 5px solid orange;
+    padding: 10px;
+    text-align: center;
+
+}
